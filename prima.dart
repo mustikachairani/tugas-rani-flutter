@@ -11,7 +11,8 @@ bool prima(int angka) {
 }
 
 void main() {
-  int bilangan = 12;
+  int bilangan = 23;
+  
   if (prima(bilangan)) {
     print("$bilangan adalah prima");
   } else {
